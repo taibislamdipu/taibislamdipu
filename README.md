@@ -21,7 +21,7 @@
 ### 👨‍💻 Languages and Frameworks
 
 <img align="left" alt="ReactJs " height="32" width="32" src="https://img.icons8.com/color/48/000000/react-native.png"/>
-<img align="left" alt="ExpressJS " height="32" width="32" src="https://i.imgur.com/tsw4a2c.jpg"/>
+<img align="left" alt="ExpressJS " height="32" width="32" src="https://i.imgur.com/ETHdaM5.png"/>
 <img align="left" alt="JavaScript" height="32" width="32" src="https://img.icons8.com/color/48/000000/javascript--v1.png" />
 <img align="left" alt="Typescript"height="32" width="32" src="https://img.icons8.com/color/48/000000/typescript.png" />
 <img align="left" alt="NodeJS"height="32" width="32" src="https://img.icons8.com/color/48/000000/nodejs.png" />
