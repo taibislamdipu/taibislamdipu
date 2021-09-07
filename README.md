@@ -1,3 +1,5 @@
+[<img width="100%" alt="header" src="https://i.imgur.com/5wANBmv.jpg"/>]
+
 # Hello World !!! I'm [Dipu][website] 👋 
 ### Web Developer
 
