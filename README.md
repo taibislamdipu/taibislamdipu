@@ -20,13 +20,16 @@
 
 ### 👨‍💻 Languages and Frameworks
 
-<img align="left" alt="ReactJs " height="32" width="32" src="https://img.icons8.com/color/48/000000/react-native.png"/>
-<img align="left" alt="Bootstrap" height="32" width="32" src="https://img.icons8.com/color/48/000000/bootstrap.png" />
+<img align="left" alt="ReactJs " height="32" width="32" src="https://i.imgur.com/gNitj7u.png"/>
+<img align="left" alt="ExpressJS " height="32" width="32" src="https://i.imgur.com/LJUoivd.png"/>
 <img align="left" alt="JavaScript" height="32" width="32" src="https://img.icons8.com/color/48/000000/javascript--v1.png" />
-<img align="left" alt="NodeJS"height="32" width="32" src="https://img.icons8.com/color/48/000000/nodejs.png" />
 <img align="left" alt="Typescript"height="32" width="32" src="https://img.icons8.com/color/48/000000/typescript.png" />
+<img align="left" alt="NodeJS"height="32" width="32" src="https://img.icons8.com/color/48/000000/nodejs.png" />
 <img align="left" alt="MongoDB"height="32" width="32" src="https://img.icons8.com/color/48/000000/mongodb.png" />
 <img align="left" alt="Firebase"height="32" width="32" src="https://img.icons8.com/color/48/000000/firebase.png" />
+<img align="left" alt="Bootstrap" height="32" width="32" src="https://img.icons8.com/color/48/000000/bootstrap.png" />
+<img align="left" alt="Material-UI" height="32" width="32" src="https://img.icons8.com/color/48/000000/material-ui.png" />
+<img align="left" alt="Ant Design" height="32" width="32" src="https://i.imgur.com/y42qtQb.png" />
 
 
 <br />
