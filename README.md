@@ -1,17 +1,17 @@
-# Hello World !!! I'm [Ankit][website] 👋 <img align="right" src="https://komarev.com/ghpvc/?username=ankitsharma-007" alt="ankitsharma-007" />
+# Hello World !!! I'm [Dipu][website] 👋 <img align="right" src="https://taibislamdipu.netlify.app/" alt="taibislamdipu web portfolio" />
 
 ### Web Developer
 
 - 🔭 I’m currently working on React, TypeScript
 - 🌱 I’m currently learning React
-- 📫 How to reach me: [@ankitsharma_007][twitter]
+- 📫 My Email: webdevs.dipu@gmail.com [email]
 
 ### 🤝 Connect with me:
 
-[<img align="left" alt="ankitsharma_007 | Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />][facebook]
-[<img align="left" alt="ankitsharma_007 | Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
-[<img align="left" alt="ankitsharma_007 | LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
-[<img align="left" alt="ankitsharma_007 | Medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />][medium]
+[<img align="left" alt="taib islam dipu | Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />][facebook]
+[<img align="left" alt="taib islam dipu | Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
+[<img align="left" alt="taib islam dipu | LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
+[<img align="left" alt="taib islam dipu | Medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />][medium]
 
 <br />
 
@@ -81,11 +81,12 @@ Thank you for your support!
 
 -->
 
-[website]: https://ankitsharmablogs.com/
+[website]: https://taibislamdipu.netlify.app/
 [facebook]: https://www.facebook.com/Ankit.Sharma.0709
-[twitter]: https://twitter.com/ankitsharma_007
-[linkedin]: https://www.linkedin.com/in/ankitsharma-007/
-[medium]: https://medium.com/@ankitsharmablog
+[twitter]: https://twitter.com/taibislamdipu
+[linkedin]: linkedin.com/in/taibislamdipu
+[medium]: medium.com/@taibislamdipu
+[email]: webdevs.dipu@gmail.com
 [freecodecamp]: https://www.freecodecamp.org/news/author/ankitsharmablog/
 [c# book cover]: https://ws-in.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=IN&ASIN=B0862DM82C&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=007056f-21
 [c# book]: https://amzn.to/3c2r5MO
