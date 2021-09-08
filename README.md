@@ -1,12 +1,11 @@
 <img width="100%" alt="header" src="https://i.imgur.com/5wANBmv.jpg"/>
 
-# Hello World !!! I'm [Dipu] 👋 
+# Hello World !!! I'm Dipu
 ### Web Developer
 
 - 📫 My Email: webdevs.dipu@gmail.com
-- 🌐 Portfolio: https://taibislamdipu.netlify.app/ 
 - 🌐 Portfolio: <a href="https://taibislamdipu.netlify.app/" target="_blank">taibislamdipu.netlify.app</a>
-
+- 🌐 LinkedIn: <a href="https://www.linkedin.com/in/taibislamdipu/" target="_blank">www.linkedin.com/in/taibislamdipu</a>
 
 ### 👨‍💻 Languages and Frameworks
 
