@@ -1,4 +1,4 @@
-<img width="100%" height="12rem" alt="header" src="https://i.imgur.com/E7nqDJS.jpg"/>
+<img width="100%" alt="cover-image" src="https://i.imgur.com/E7nqDJS.jpg" style: "height:10rem" />
 <p>The Creation of Adam by Michelangelo. Date: 1508 - 1512</p>
 
 
