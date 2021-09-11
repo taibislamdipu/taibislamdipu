@@ -1,4 +1,4 @@
-<img width="100%" alt="header" src=`${cover}`/>
+<img width="100%" alt="header" src=[cover]/>
 <p>The Creation of Adam by Michelangelo. Date: 1508 - 1512</p>
 
 
@@ -45,7 +45,7 @@
 [linkedin]: https://www.linkedin.com/in/taibislamdipu/
 [medium]: https://taibislamdipu.medium.com/
 [email]: webdevs.dipu@gmail.com
-let cover = https://i.imgur.com/E7nqDJS.jpg
+[cover]: https://i.imgur.com/E7nqDJS.jpg
 
 
 <!-- The School of Athens - https://i.imgur.com/E7nqDJS.jpg -->
