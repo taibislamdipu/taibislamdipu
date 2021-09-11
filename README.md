@@ -1,5 +1,5 @@
 <img width="100%" alt="cover-image" src="https://i.imgur.com/E7nqDJS.jpg" />
-<p>The Creation of Adam by Michelangelo. Date: 1508 - 1512</p>
+<p>The School of Athens by Raphael. Date: 1509 – 1511</p>
 
 
 # Hello World !!! I'm Dipu
@@ -45,7 +45,6 @@
 [linkedin]: https://www.linkedin.com/in/taibislamdipu/
 [medium]: https://taibislamdipu.medium.com/
 [email]: webdevs.dipu@gmail.com
-[cover]: "https://i.imgur.com/E7nqDJS.jpg"
 
 
 <!-- The School of Athens - https://i.imgur.com/E7nqDJS.jpg -->
