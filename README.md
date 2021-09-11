@@ -1,4 +1,4 @@
-<img width="100%" height="1rem" alt="header" src="https://i.imgur.com/E7nqDJS.jpg"/>
+<img width="100%" height="12rem" alt="header" src="https://i.imgur.com/E7nqDJS.jpg"/>
 <p>The Creation of Adam by Michelangelo. Date: 1508 - 1512</p>
 
 
@@ -49,6 +49,7 @@
 
 
 <!-- The School of Athens - https://i.imgur.com/E7nqDJS.jpg -->
+
 <!-- The Creation of Adam by Michelangelo. Date: 1508 - 1512 - https://i.imgur.com/5wANBmv.jpg  -->
 
 
