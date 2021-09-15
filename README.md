@@ -1,5 +1,5 @@
-<img width="100%" alt="cover-image" src="https://i.imgur.com/E7nqDJS.jpg" />
-<p>The School of Athens by Raphael. Date: 1509 – 1511</p>
+<img width="100%" alt="cover-image" src="https://i.imgur.com/1Thi7Iz.jpg" />
+<p>The Writing on the Wall, new songs by Iron Maiden</p>
 
 
 # Hello World !!! I'm Dipu
@@ -29,27 +29,29 @@
 
 ### 🤝 Connect with me:
 
-[<img align="left" alt="taib islam dipu | LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
-[<img align="left" alt="taib islam dipu | Medium" title="Medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />][medium]
-[<img align="left" alt="taib islam dipu | Twitter" title="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
-[<img align="left" alt="taib islam dipu | Facebook" title="Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank" />][facebook]
+- 🌐 LinkedIn: <a href="https://www.linkedin.com/in/taibislamdipu/" target="_blank" title="LinkedIn">linkedin.com/in/taibislamdipu</a>
+- 🌐 Medium: <a href="https://taibislamdipu.medium.com/" target="_blank" title="LinkedIn">taibislamdipu.medium.com</a>
+- 🌐 Twitter: <a href="https://twitter.com/taibislamdipu" target="_blank" title="Twitter">twitter.com/taibislamdipu</a>
+- 🌐 Facebook: <a href="https://www.facebook.com/taibislamdipu/" target="_blank" title="Facebook">facebook.com/taibislamdipu</a>
+
 
 <br />
 <br />
 
 
 
-[website]: https://taibislamdipu.netlify.app/
-[facebook]: https://www.facebook.com/taibislamdipu/
-[twitter]: https://twitter.com/taibislamdipu
-[linkedin]: https://www.linkedin.com/in/taibislamdipu/
-[medium]: https://taibislamdipu.medium.com/
-[email]: webdevs.dipu@gmail.com
 
 
-<!-- The School of Athens - https://i.imgur.com/E7nqDJS.jpg -->
+<!-- ------------------------------
+            Cover Photo List 
+----------------------------------->
+<!-- 
 
-<!-- The Creation of Adam by Michelangelo. Date: 1508 - 1512 - https://i.imgur.com/5wANBmv.jpg  -->
+The Creation of Adam by Michelangelo. Date: 1508 - 1512 - https://i.imgur.com/5wANBmv.jpg  
+The Writing on the Wall, new songs by Iron Maiden - https://i.imgur.com/1Thi7Iz.jpg
+The School of Athens - https://i.imgur.com/E7nqDJS.jpg
+
+-->
 
 
 
