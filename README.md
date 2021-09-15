@@ -32,7 +32,7 @@
 ### 🤝 Connect with me:
 
 - 🌐 LinkedIn: <a href="https://www.linkedin.com/in/taibislamdipu/" target="_blank" title="LinkedIn">linkedin.com/in/taibislamdipu</a>
-- 🌐 Medium: <a href="https://taibislamdipu.medium.com/" target="_blank" title="LinkedIn">taibislamdipu.medium.com</a>
+- 🌐 Medium: <a href="https://taibislamdipu.medium.com/" target="_blank" title="Medium">taibislamdipu.medium.com</a>
 - 🌐 Twitter: <a href="https://twitter.com/taibislamdipu" target="_blank" title="Twitter">twitter.com/taibislamdipu</a>
 - 🌐 Facebook: <a href="https://www.facebook.com/taibislamdipu/" target="_blank" title="Facebook">facebook.com/taibislamdipu</a>
 
