@@ -5,9 +5,9 @@
 # Hello World !!! I'm Dipu
 ### Web Developer
 
-- 📫 My Email: webdevs.dipu@gmail.com
-- 🌐 Portfolio: <a href="https://taibislamdipu.netlify.app/" target="_blank">taibislamdipu.netlify.app</a>
-- 🌐 LinkedIn: <a href="https://www.linkedin.com/in/taibislamdipu/" target="_blank">www.linkedin.com/in/taibislamdipu</a>
+- 📫 My Email: <a href="webdevs.dipu@gmail.com " target="_blank" title="Email">webdevs.dipu@gmail.com </a>
+- 🌐 Portfolio: <a href="https://taibislamdipu.netlify.app/" target="_blank" title="Portfolio">https://taibislamdipu.netnetlify.app</a>
+- 🌐 LinkedIn: <a href="https://www.linkedin.com/in/taibislamdipu/" target="_blank" title="" title="LinkedIn">www.linkedin.com/in/taibislamdipu</a>
 
 <!-- icons collected from icons8.com -->
 ### 👨‍💻 Languages and Frameworks
