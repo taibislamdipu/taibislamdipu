@@ -3,8 +3,6 @@
 
 
 # Hello World !!! I'm Dipu
-<!-- GitHub Profile Views Counter -->
-![](https://komarev.com/ghpvc/?username=taibislamdipu)
 
 ### Web Developer
 
@@ -40,11 +38,14 @@
 - 🌐 Twitter: <a href="https://twitter.com/taibislamdipu" target="_blank" title="Twitter">twitter.com/taibislamdipu</a>
 - 🌐 Facebook: <a href="https://www.facebook.com/taibislamdipu/" target="_blank" title="Facebook">facebook.com/taibislamdipu</a>
 
-
 <br />
 <br />
 
+<!-- GitHub Profile Views Counter -->
+![](https://komarev.com/ghpvc/?username=taibislamdipu)
 
+<br />
+<br />
 
 
 
