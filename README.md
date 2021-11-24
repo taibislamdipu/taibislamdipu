@@ -6,8 +6,8 @@
 
 ### Web Developer
 
-- 📫 My Email: <a href="webdevs.dipu@gmail.com" target="_blank" title="Email">webdevs.dipu@gmail.com </a>
-- 🌐 Portfolio: <a href="https://webdevsdipu.netlify.app/" target="_blank" title="Portfolio">webdevsdipu.netlify.app</a>
+- 📫 My Email: <a href="mailtaibislam@gmail.com" target="_blank" title="Email">mailtaibislam@gmail.com</a>
+- 🌐 Portfolio: <a href="https://taibislamdipu.netlify.app/" target="_blank" title="Portfolio">taibislamdipu.netlify.app</a>
 - 🌐 LinkedIn: <a href="https://www.linkedin.com/in/taibislamdipu/" target="_blank" title="LinkedIn">linkedin.com/in/taibislamdipu</a>
 
 <!-- icons collected from icons8.com -->
