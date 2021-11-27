@@ -2,9 +2,9 @@
 <p>The Writing on the Wall, new songs by Iron Maiden</p>
 
 
-# Hello World !!! I'm Dipu
+# Hello World !!! I'm Taib Islam
 
-### Web Developer
+### Front End React Developer
 
 - 📫 My Email: <a href="mailtaibislam@gmail.com" target="_blank" title="Email">mailtaibislam@gmail.com</a>
 - 🌐 Portfolio: <a href="https://taibislamdipu.netlify.app/" target="_blank" title="Portfolio">taibislamdipu.netlify.app</a>
