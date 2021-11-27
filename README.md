@@ -1,6 +1,6 @@
-<img width="100%" alt="cover-image" src="https://i.imgur.com/1Thi7Iz.jpg" />
+<!-- <img width="100%" alt="cover-image" src="https://i.imgur.com/1Thi7Iz.jpg" />
 <p>The Writing on the Wall, new songs by Iron Maiden</p>
-
+-->
 
 # Hello World !!! I'm Taib Islam
 
