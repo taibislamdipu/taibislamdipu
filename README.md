@@ -4,9 +4,10 @@
 
 # Taib Islam <br /> Front End React Developer
 
-- 🌐 Portfolio: <a href="https://taibislamdipu.netlify.app/" target="_blank" title="Portfolio">taibislamdipu.netlify.app</a>
-- 🌐 LinkedIn: <a href="https://www.linkedin.com/in/taibislamdipu/" target="_blank" title="LinkedIn">linkedin.com/in/taibislamdipu</a>
-- 📫 My Email: mailtaibislam@gmail.com
+### 🤝 Connect with me:
+- 🌐 <b>Portfolio:</b> <a href="https://taibislamdipu.netlify.app/" target="_blank" title="Portfolio">taibislamdipu.netlify.app</a>
+- 🌐 <b>LinkedIn:</b> <a href="https://www.linkedin.com/in/taibislamdipu/" target="_blank" title="LinkedIn">linkedin.com/in/taibislamdipu</a>
+- 📫 <b>Email:</b> mailtaibislam@gmail.com
 
 <!-- icons collected from icons8.com -->
 ### 👨‍💻 Languages and Frameworks
@@ -19,22 +20,22 @@
 <img align="left" alt="MongoDB" title="MongoDB" height="32" width="32" src="https://img.icons8.com/color/48/000000/mongodb.png" />
 <img align="left" alt="Firebase" title="Firebase" height="32" width="32" src="https://img.icons8.com/color/48/000000/firebase.png" />
 <img align="left" alt="Bootstrap" title="Bootstrap" height="32" width="32" src="https://img.icons8.com/color/48/000000/bootstrap.png" />
+<img align="left" alt="HTML" title="HTML" height="32" width="32" src="https://img.icons8.com/color/50/000000/html-5.png" />
+<img align="left" alt="CSS" title="CSS" height="32" width="32" src="https://img.icons8.com/color/48/000000/css3.png" />
 <img align="left" alt="React-Bootstrap" title="React-Bootstrap" height="32" width="32" src="https://i.imgur.com/Rc554XX.png" />
 <img align="left" alt="Tailwind" title="Tailwind" height="32" width="32" src="https://i.imgur.com/Ds5CeCg.png" />
 <img align="left" alt="Material-UI" title="Material-UI" height="32" width="32" src="https://img.icons8.com/color/48/000000/material-ui.png" />
 <img align="left" alt="Ant Design" title="Ant Design" height="32" width="32" src="https://i.imgur.com/y42qtQb.png" />
 
+
+
+
 <br />
 <br />
 
----
 
-### 🤝 Connect with me:
 
-- 🌐 LinkedIn: <a href="https://www.linkedin.com/in/taibislamdipu/" target="_blank" title="LinkedIn">linkedin.com/in/taibislamdipu</a>
-- 🌐 Medium: <a href="https://taibislamdipu.medium.com/" target="_blank" title="Medium">taibislamdipu.medium.com</a>
-- 🌐 Twitter: <a href="https://twitter.com/taibislamdipu" target="_blank" title="Twitter">twitter.com/taibislamdipu</a>
-- 🌐 Facebook: <a href="https://www.facebook.com/taibislamdipu/" target="_blank" title="Facebook">facebook.com/taibislamdipu</a>
+
 
 <br />
 <br />
