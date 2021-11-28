@@ -2,8 +2,7 @@
 <p>The Writing on the Wall, new songs by Iron Maiden</p>
 -->
 
-# Hello World !!! I'm Taib Islam
-
+# Taib Islam
 ### Front End React Developer
 
 - 📫 My Email: <a href="mailtaibislam@gmail.com" target="_blank" title="Email">mailtaibislam@gmail.com</a>
