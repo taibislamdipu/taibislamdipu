@@ -2,12 +2,11 @@
 <p>The Writing on the Wall, new songs by Iron Maiden</p>
 -->
 
-# Taib Islam <br /> ### Front End React Developer
+# Taib Islam <br /> Front End React Developer
 
-
-- 📫 My Email: <a href="mailtaibislam@gmail.com" target="_blank" title="Email">mailtaibislam@gmail.com</a>
 - 🌐 Portfolio: <a href="https://taibislamdipu.netlify.app/" target="_blank" title="Portfolio">taibislamdipu.netlify.app</a>
 - 🌐 LinkedIn: <a href="https://www.linkedin.com/in/taibislamdipu/" target="_blank" title="LinkedIn">linkedin.com/in/taibislamdipu</a>
+- 📫 My Email: mailtaibislam@gmail.com
 
 <!-- icons collected from icons8.com -->
 ### 👨‍💻 Languages and Frameworks
