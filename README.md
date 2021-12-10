@@ -6,7 +6,7 @@
 </p>
 
 
-### 🤝 Connect with me:
+### 🤝 Connect with me
 - 🌐 <b>Portfolio:</b> <a href="https://taibislamdipu.netlify.app/" target="_blank" title="Portfolio">taibislamdipu.netlify.app</a>
 - 🌐 <b>LinkedIn:</b> <a href="https://www.linkedin.com/in/taibislamdipu/" target="_blank" title="LinkedIn">linkedin.com/in/taibislamdipu</a>
 - 📫 <b>Email:</b> mailtaibislam@gmail.com
