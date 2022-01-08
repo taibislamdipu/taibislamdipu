@@ -2,7 +2,7 @@
 <h3>A passionate Web Developer from Bangladesh.</h3>
 
 <p>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&lines=02%2B+years+of+coding+experience;Always+exploring+new+things;Full+stack+web+developer+"></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&lines=01%2B+years+of+coding+experience;Always+exploring+new+things;Full+stack+web+developer+"></a>
 </p>
 
 
