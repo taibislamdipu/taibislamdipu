@@ -18,20 +18,21 @@
 <!-- icons collected from icons8.com -->
 ### 👨‍💻 Languages and Frameworks
 
-<img align="left" alt="ReactJs" title="ReactJS (I'm a JavaScript library)" height="50" width="50" src="https://img.icons8.com/color/48/000000/react-native.png"/>
-<img align="left" alt="ExpressJS" title="ExpressJS" height="50" width="50" src="https://i.imgur.com/HIF5Fwy.jpg"/>
-<img align="left" alt="JavaScript" title="JavaScript" height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript--v1.png" />
-<img align="left" alt="TypeScript" title="TypeScript" height="50" width="50" src="https://img.icons8.com/color/48/000000/typescript.png" />
-<img align="left" alt="NodeJS" title="NodeJS" height="50" width="50" src="https://img.icons8.com/color/48/000000/nodejs.png" />
-<img align="left" alt="MongoDB" title="MongoDB" height="50" width="50" src="https://img.icons8.com/color/48/000000/mongodb.png" />
-<img align="left" alt="Firebase" title="Firebase" height="50" width="50" src="https://img.icons8.com/color/48/000000/firebase.png" />
-<img align="left" alt="Bootstrap" title="Bootstrap" height="50" width="50" src="https://img.icons8.com/color/48/000000/bootstrap.png" />
-<img align="left" alt="HTML" title="HTML" height="50" width="50" src="https://img.icons8.com/color/50/000000/html-5.png" />
-<img align="left" alt="CSS" title="CSS" height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" />
-<img align="left" alt="React-Bootstrap" title="React-Bootstrap" height="50" width="50" src="https://i.imgur.com/Rc554XX.png" />
-<img align="left" alt="Ant Design" title="Ant Design" height="50" width="50" src="https://i.imgur.com/y42qtQb.png" />  
-<img align="left" alt="Material-UI" title="Material-UI" height="50" width="50" src="https://img.icons8.com/color/48/000000/material-ui.png" />
-<img align="left" alt="Tailwind" title="Tailwind" height="50" width="50" src="https://i.imgur.com/Ds5CeCg.png" />
+<img align="left" alt="ReactJs" title="ReactJS (I'm a JavaScript library)" height="32" width="32" src="https://img.icons8.com/color/48/000000/react-native.png"/>
+<img align="left" alt="Next.js" title="Next.js" height="32" width="32" src="https://i.ibb.co/4tkD414/nextjs.png"/>
+<img align="left" alt="ExpressJS" title="ExpressJS" height="32" width="32" src="https://i.imgur.com/HIF5Fwy.jpg"/>
+<img align="left" alt="JavaScript" title="JavaScript" height="32" width="32" src="https://img.icons8.com/color/48/000000/javascript--v1.png" />
+<img align="left" alt="TypeScript" title="TypeScript" height="32" width="32" src="https://img.icons8.com/color/48/000000/typescript.png" />
+<img align="left" alt="NodeJS" title="NodeJS" height="32" width="32" src="https://img.icons8.com/color/48/000000/nodejs.png" />
+<img align="left" alt="MongoDB" title="MongoDB" height="32" width="32" src="https://img.icons8.com/color/48/000000/mongodb.png" />
+<img align="left" alt="Firebase" title="Firebase" height="32" width="32" src="https://img.icons8.com/color/48/000000/firebase.png" />
+<img align="left" alt="Bootstrap" title="Bootstrap" height="32" width="32" src="https://img.icons8.com/color/48/000000/bootstrap.png" />
+<img align="left" alt="HTML" title="HTML" height="32" width="32" src="https://img.icons8.com/color/50/000000/html-5.png" />
+<img align="left" alt="CSS" title="CSS" height="32" width="32" src="https://img.icons8.com/color/48/000000/css3.png" />
+<img align="left" alt="React-Bootstrap" title="React-Bootstrap" height="32" width="32" src="https://i.imgur.com/Rc554XX.png" />
+<!-- <img align="left" alt="Ant Design" title="Ant Design" height="32" width="32" src="https://i.imgur.com/y42qtQb.png" />   -->
+<img align="left" alt="Material-UI" title="Material-UI" height="32" width="32" src="https://img.icons8.com/color/48/000000/material-ui.png" />
+<img align="left" alt="Tailwind" title="Tailwind" height="32" width="32" src="https://i.imgur.com/Ds5CeCg.png" />
 
 
 
