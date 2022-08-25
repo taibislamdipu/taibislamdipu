@@ -1,4 +1,4 @@
-<h1>Hi 👋, I'm Taib Islam</h1>
+<h1>Hi 👋, I'm Taib Islam, FrontEnd Web Developer</h1>
 <!-- <h3>A passionate Web Developer from Planet Earth!</h3> -->
 
 <!--
