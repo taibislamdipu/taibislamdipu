@@ -6,6 +6,12 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&lines=01%2B+years+of+coding+experience;Always+exploring+new+things;FrontEnd+developer+"></a>
 </p>
  -->
+ 
+ <p>Working as a frontend web developer in Let's Dunch. I have developed several projects using React, Bootstrap, Tailwind, Firebase, JavaScript, Express.js, MongoDB etc.
+
+I have completed my bachelor’s degree in Information Technology (IT) from the University Of Greenwich.
+
+As a FrontEnd Developer, my keen attention to detail and design knowledge will be an added advantage for me to serve any company with a quality service.</p>
 
 
 ### 🤝 Connect with me
@@ -53,10 +59,10 @@
 <br />
 <br />
 
-<!-- GitHub Profile Views Counter -->
+<!-- GitHub Profile Views Counter
 ![](https://komarev.com/ghpvc/?username=taibislamdipu)
 
-
+-->
 
 
 <!-- ------------------------------
