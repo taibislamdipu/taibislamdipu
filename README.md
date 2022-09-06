@@ -1,4 +1,4 @@
-<h1>Hi 👋, I'm Taib Islam, FrontEnd Web Developer</h1>
+<h2>Hi 👋, I'm Taib Islam, FrontEnd Web Developer</h2>
 <!-- <h3>A passionate Web Developer from Planet Earth!</h3> -->
 
 <!--
@@ -20,15 +20,12 @@ As a FrontEnd Developer, my keen attention to detail and design knowledge will b
 - 📫 <b>Email:</b> mailtaibislam@gmail.com
 
 
-<br />
-
-
 <!-- icons collected from icons8.com -->
 ### 👨‍💻 Languages and Frameworks
 
 <img align="left" alt="ReactJs" title="ReactJS (I'm a JavaScript library)" height="32" width="32" src="https://img.icons8.com/color/48/000000/react-native.png"/>
-<img align="left" alt="Bootstrap" title="Bootstrap" height="32" width="32" src="https://img.icons8.com/color/48/000000/bootstrap.png" />
 <img align="left" alt="JavaScript" title="JavaScript" height="32" width="32" src="https://img.icons8.com/color/48/000000/javascript--v1.png" />
+<img align="left" alt="Tailwind" title="Tailwind" height="32" width="32" src="https://i.imgur.com/Ds5CeCg.png" />
 <img align="left" alt="HTML" title="HTML" height="32" width="32" src="https://img.icons8.com/color/50/000000/html-5.png" />
 <img align="left" alt="CSS" title="CSS" height="32" width="32" src="https://img.icons8.com/color/48/000000/css3.png" />
 <!-- <img align="left" alt="Next.js" title="Next.js" height="32" width="32" src="https://i.ibb.co/4tkD414/nextjs.png"/> -->
@@ -41,41 +38,5 @@ As a FrontEnd Developer, my keen attention to detail and design knowledge will b
 <!-- <img align="left" alt="React-Bootstrap" title="React-Bootstrap" height="32" width="32" src="https://i.imgur.com/Rc554XX.png" /> -->
 <!-- <img align="left" alt="Ant Design" title="Ant Design" height="32" width="32" src="https://i.imgur.com/y42qtQb.png" />   -->
 <img align="left" alt="Material-UI" title="Material-UI" height="32" width="32" src="https://img.icons8.com/color/48/000000/material-ui.png" />
-<img align="left" alt="Tailwind" title="Tailwind" height="32" width="32" src="https://i.imgur.com/Ds5CeCg.png" />
-
-
-
-<br />
-<br />
-
-
-
-
-
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-
-<!-- GitHub Profile Views Counter
-![](https://komarev.com/ghpvc/?username=taibislamdipu)
-
--->
-
-
-<!-- ------------------------------
-            Cover Photo List 
------------------------------------>
-<!-- 
-
-The Creation of Adam by Michelangelo. Date: 1508 - 1512 - https://i.imgur.com/5wANBmv.jpg  
-The Writing on the Wall, new songs by Iron Maiden - https://i.imgur.com/1Thi7Iz.jpg
-The School of Athens - https://i.imgur.com/E7nqDJS.jpg
-
--->
-
-
-
+<img align="left" alt="Bootstrap" title="Bootstrap" height="32" width="32" src="https://img.icons8.com/color/48/000000/bootstrap.png" />
 
