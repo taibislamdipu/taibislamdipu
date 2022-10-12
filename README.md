@@ -7,11 +7,11 @@
 </p>
  -->
  
- <p>Working as a frontend web developer in Let's Dunch. I have developed several projects using React, Bootstrap, Tailwind, Firebase, JavaScript, Express.js, MongoDB etc.
+ <p>Working as a frontend web developer with 1 year of job experience at Let's Dunch, where I build user interfaces using React.js. In my role as a FrontEnd Developer, I turn high-quality designs into pixel-perfect UIs.
 
-I have completed my bachelor’s degree in Business Information Technology (BIT) from the University Of Greenwich.
+Experience in, HTML5, CSS3, JavaScript, React.js, Git, Tailwind.css, Bootstrap and Material UI.
 
-As a FrontEnd Developer, my keen attention to detail and design knowledge will be an added advantage for me to serve any company with a quality service.</p>
+I have completed my bachelor’s degree in Information Technology (IT) from the University Of Greenwich.</p>
 
 
 ### 🤝 Connect with me
