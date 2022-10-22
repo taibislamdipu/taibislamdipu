@@ -1,27 +1,20 @@
-<h2>Hi 👋, I'm Dipu, FrontEnd Web Developer</h2>
-<!-- <h3>A passionate Web Developer from Planet Earth!</h3> -->
+### Hi 👋, I'm Dipu, FrontEnd Web Developer
 
-<!--
-<p>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&lines=01%2B+years+of+coding+experience;Always+exploring+new+things;FrontEnd+developer+"></a>
-</p>
- -->
- 
- <p>Working as a frontend web developer with 1 year of job experience at Let's Dunch, where I build user interfaces using React.js. In my role as a FrontEnd Developer, I turn high-quality designs into pixel-perfect UIs.
+Working as a frontend web developer with 1 year of job experience at Let's Dunch, where I build user interfaces using React.js. In my role as a FrontEnd Developer, I turn high-quality designs into pixel-perfect UIs.
 
 Experience in, HTML5, CSS3, JavaScript, React.js, Git, Tailwind.css, Bootstrap and Material UI.
 
-I have completed my bachelor’s degree in Information Technology (IT) from the University Of Greenwich.</p>
+I have completed my bachelor’s degree in Information Technology (IT) from the University Of Greenwich.
 
 
-### 🤝 Connect with me
-- <b>Portfolio:</b> <a href="https://taibislamdipu.netlify.app/" target="_blank" title="Portfolio">taibislamdipu.netlify.app</a>
-- <b>LinkedIn:</b> <a href="https://www.linkedin.com/in/taibislamdipu/" target="_blank" title="LinkedIn">linkedin.com/in/taibislamdipu</a>
-- <b>Email:</b> mailtaibislam@gmail.com
+#### 🤝 Connect with me
+- **Portfolio:** <a href="https://taibislamdipu.netlify.app/" target="_blank" title="Portfolio">taibislamdipu.netlify.app</a>
+- **LinkedIn:** <a href="https://www.linkedin.com/in/taibislamdipu/" target="_blank" title="LinkedIn">linkedin.com/in/taibislamdipu</a>
+- **Email:** mailtaibislam@gmail.com
 
 
 <!-- icons collected from icons8.com -->
-### 👨‍💻 Languages and Frameworks
+#### 👨‍💻 Languages and Frameworks
 
 <img align="left" alt="ReactJs" title="ReactJS (I'm a JavaScript library)" height="32" width="32" src="https://img.icons8.com/color/48/000000/react-native.png"/>
 <img align="left" alt="JavaScript" title="JavaScript" height="32" width="32" src="https://img.icons8.com/color/48/000000/javascript--v1.png" />
