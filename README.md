@@ -4,7 +4,7 @@ Working as a frontend web developer with 1 year of job experience at Let's Dunch
 
 Experience in, HTML5, CSS3, JavaScript, React.js, Git, Tailwind.css, Bootstrap and Material UI.
 
-I have completed my bachelor’s degree in Information Technology (IT) from the University Of Greenwich.
+I have completed my bachelor’s degree in Information Technology (IT) from the Daffodil Institute of IT.
 
 
 #### 🤝 Connect with me
