@@ -2,19 +2,19 @@
 
 Working as a frontend web developer with 1 year of job experience at Let's Dunch, where I build user interfaces using React.js. In my role as a FrontEnd Developer, I turn high-quality designs into pixel-perfect UIs.
 
-Experience in, HTML5, CSS3, JavaScript, React.js, Git, Tailwind.css, Bootstrap and Material UI.
+Technology that i know is, HTML5, CSS3, JavaScript, React.js, Git, Tailwind.css, Bootstrap and Material UI.
 
 I have completed my bachelor’s degree in Information Technology (IT) from the Daffodil Institute of IT.
 
 
-#### 🤝 Connect with me
+#### 📫 Reach me out
 - **Portfolio:** <a href="https://taibislamdipu.netlify.app/" target="_blank" title="Portfolio">taibislamdipu.netlify.app</a>
 - **LinkedIn:** <a href="https://www.linkedin.com/in/taibislamdipu/" target="_blank" title="LinkedIn">linkedin.com/in/taibislamdipu</a>
 - **Email:** mailtaibislam@gmail.com
 
 
 <!-- icons collected from icons8.com -->
-#### 👨‍💻 Languages and Frameworks
+#### 💻 Technology that i know
 
 <img align="left" alt="ReactJs" title="ReactJS (I'm a JavaScript library)" height="32" width="32" src="https://img.icons8.com/color/48/000000/react-native.png"/>
 <img align="left" alt="JavaScript" title="JavaScript" height="32" width="32" src="https://img.icons8.com/color/48/000000/javascript--v1.png" />
