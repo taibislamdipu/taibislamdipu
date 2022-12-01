@@ -4,9 +4,6 @@ Working as a frontend web developer with 1 year of job experience at Let's Dunch
 
 Technology that i know is, HTML5, CSS3, JavaScript, React.js, Git, Tailwind.css, Bootstrap and Material UI.
 
-I have completed my bachelor’s degree in Information Technology (IT) from the Daffodil Institute of IT.
-
-
 #### 📫 Reach me out
 - **Portfolio:** <a href="https://taibislamdipu.netlify.app/" target="_blank" title="Portfolio">taibislamdipu.netlify.app</a>
 - **LinkedIn:** <a href="https://www.linkedin.com/in/taibislamdipu/" target="_blank" title="LinkedIn">linkedin.com/in/taibislamdipu</a>
