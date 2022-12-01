@@ -2,7 +2,7 @@
 
 Working as a frontend web developer with 1 year of job experience at Let's Dunch, where I build user interfaces using React.js. In my role as a FrontEnd Developer, I turn high-quality designs into pixel-perfect UIs.
 
-Technology that i know is, HTML5, CSS3, JavaScript, React.js, Git, Tailwind.css, Bootstrap and Material UI.
+Technology that i know, HTML5, CSS3, JavaScript, React.js, Git, Tailwind.css, Bootstrap and Material UI.
 
 #### 📫 Reach me out
 - **Portfolio:** <a href="https://taibislamdipu.netlify.app/" target="_blank" title="Portfolio">taibislamdipu.netlify.app</a>
