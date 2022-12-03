@@ -3,7 +3,8 @@
 Working as a frontend web developer with 1 year of job experience at Let's Dunch, where I build user interfaces using React.js. In my role as a FrontEnd Developer, I turn high-quality designs into pixel-perfect UIs.
 
 #### 📫 Reach me out
-- **Portfolio:** <a href="https://taibislamdipu.netlify.app/" target="_blank" title="Portfolio">taibislamdipu.netlify.app</a>
+
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/taibislamdipu)
 - **LinkedIn:** <a href="https://www.linkedin.com/in/taibislamdipu/" target="_blank" title="LinkedIn">linkedin.com/in/taibislamdipu</a>
 - **Email:** mailtaibislam@gmail.com
 
