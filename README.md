@@ -1,7 +1,5 @@
 ### Hi 👋, I'm Dipu, Web Developer
 
-Working as a frontend web developer, where I build user interfaces using React.js. In my role as a FrontEnd Developer, I turn high-quality designs into pixel-perfect UIs.
-
 #### 💻 Technology that i know
 ![My Skills](https://skillicons.dev/icons?i=react,js,redux,tailwind,html,css,bootstrap,figma,nodejs,express,mongodb,firebase,materialui,git&perline=5)
 
