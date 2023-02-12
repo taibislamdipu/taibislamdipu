@@ -4,6 +4,7 @@ Hi there 👋!
 
 - A Web Developer based in **[Dhaka](https://en.wikipedia.org/wiki/Dhaka), [Bangladesh](https://en.wikipedia.org/wiki/Bangladesh)**.
 - Open To Work
+- Mostly active on <a href="https://www.linkedin.com/in/taibislamdipu/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height=20></a>.
 - See my portfolio at 🌐 **[www.taibislamdipu.com](https://taibislamdipu.netlify.app/)**
 
 #### What are my skill sets?
