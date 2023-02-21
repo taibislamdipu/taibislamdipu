@@ -2,10 +2,11 @@ Hi there 👋!
 
 #### Who I am?
 
-- A Web Developer based in **[Dhaka](https://en.wikipedia.org/wiki/Dhaka), [Bangladesh](https://en.wikipedia.org/wiki/Bangladesh)**.
+- A Full-Stack Developer based in **[Dhaka](https://en.wikipedia.org/wiki/Dhaka), [Bangladesh](https://en.wikipedia.org/wiki/Bangladesh)**
+- Have 1 years of hands-on experience in Frontend Development, React.js
 - Open To Work
 - Mostly active on <a href="https://www.linkedin.com/in/taibislamdipu/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height=20></a>
-- See my portfolio at 🌐 **[www.taibislamdipu.com](https://taibislamdipu.netlify.app/)**
+- Visit my portfolio at 🌐 **[www.taibislamdipu.com](https://taibislamdipu.netlify.app/)**
 
 #### What are my skill sets?
 
