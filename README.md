@@ -4,8 +4,10 @@ Hi there 👋!
 
 - A Full-Stack Developer based in **[Dhaka](https://en.wikipedia.org/wiki/Dhaka), [Bangladesh](https://en.wikipedia.org/wiki/Bangladesh)**
 - Have 1 years of hands-on experience in Web Design, React.js
-- Open To Work
+- 🔭 I’m currently exploring NextJS, Backend, Mongoose, MongoDB Aggregation and Postman.
+- 🎯 I’m currently Focusing on Problem Solving 
 - Mostly active on <a href="https://www.linkedin.com/in/taibislamdipu/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height=20></a>
+- Open To Work
 - Visit my portfolio at 🌐 **[www.taibislamdipu.com](https://taibislamdipu.netlify.app/)**
 
 #### What are my skill sets?
