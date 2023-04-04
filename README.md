@@ -1,9 +1,8 @@
 Hi there 👋!
 
-#### Who I am?
+#### A Full-Stack Software Engineer from **[Dhaka](https://en.wikipedia.org/wiki/Dhaka), [Bangladesh](https://en.wikipedia.org/wiki/Bangladesh)**
 
-- A Full-Stack Developer based in **[Dhaka](https://en.wikipedia.org/wiki/Dhaka), [Bangladesh](https://en.wikipedia.org/wiki/Bangladesh)**
-- Have 1 years of hands-on experience in Web Design, React.js
+- Have 1 years of hands-on experience in Web Design, JavaScript, React.js
 - 🔭 I’m currently exploring NextJS, Backend, Mongoose, MongoDB Aggregation and Postman.
 - 🎯 I’m currently Focusing on Problem Solving 
 - Mostly active on <a href="https://www.linkedin.com/in/taibislamdipu/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height=20></a>
@@ -25,7 +24,6 @@ Hi there 👋!
   - **UI Toolkit:** `TailwindCSS` • `Bootstrap` • `DaisyUI`
 
 - 🎡 **Ecosystem:**
-  - **Containerization:** `AWS`
   - **Version Control:** `Git` • `GitHub`
   - **Project Management:** `Jira` • `Trello` • `Asana`
 
