@@ -3,7 +3,7 @@ Hi there 👋!
 #### Front-End Engineer from **[Dhaka](https://en.wikipedia.org/wiki/Dhaka), [Bangladesh](https://en.wikipedia.org/wiki/Bangladesh)**
 
 - Have 1 years of hands-on experience in Web Design, JavaScript, React.js
-- 🔭 I’m currently exploring NextJS, Backend, Mongoose, MongoDB Aggregation and Postman.
+- 🔭 I’m currently exploring NextJS, Backend, Mongoose, MongoDB Aggregation and API Testing.
 - 🎯 I’m currently Focusing on Problem Solving 
 - Mostly active on <a href="https://www.linkedin.com/in/taibislamdipu/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height=20></a>
 - Open To Work
