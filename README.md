@@ -1,6 +1,6 @@
 Hi there 👋!
 
-#### A Full-Stack Software Engineer from **[Dhaka](https://en.wikipedia.org/wiki/Dhaka), [Bangladesh](https://en.wikipedia.org/wiki/Bangladesh)**
+#### Front-End Engineer from **[Dhaka](https://en.wikipedia.org/wiki/Dhaka), [Bangladesh](https://en.wikipedia.org/wiki/Bangladesh)**
 
 - Have 1 years of hands-on experience in Web Design, JavaScript, React.js
 - 🔭 I’m currently exploring NextJS, Backend, Mongoose, MongoDB Aggregation and Postman.
