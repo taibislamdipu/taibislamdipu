@@ -28,27 +28,29 @@ Hi there 👋!
   - **Version Control:** `Git` • `GitHub`
   - **Project Management:** `Jira` • `Trello` • `Asana`
 
-#### How to reach me?
 
+#### How to get in touch with me?
+
+<p left="center">
 <a href="https://www.linkedin.com/in/taibislamdipu">
-  <img align="left" alt="LinkedIn" width="22px" src="./assets/linkedin.svg" />
-</a>
-
-<a href="https://twitter.com/taibislamdipu">
-  <img align="left" alt="Twitter" width="22px" src="./assets/twitter.svg" />
-</a>
-
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
+</a> 
 <a href="https://www.facebook.com/taibislamdipu">
-  <img align="left" alt="Facebook" width="22px" src="./assets/facebook.svg" />
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height=25>
 </a>
-
 <a href="https://medium.com/@taibislamdipu">
-  <img align="left" alt="Medium" width="22px" src="./assets/medium.svg" />
-</a>
-
+  <img src="https://img.shields.io/badge/medium-%231DA1F2.svg?&style=for-the-badge&logo=medium&logoColor=white" height=25>
+</a> 
 <a href="mailto:mailtaibislam@gmail.com">
-  <img align="left" alt="Mail" width="22px" src="./assets/gmail.svg" />
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25>
 </a>
+</p>
+
+<br/>
+<!-- GitHub Profile Views Counter -->
+
+![](https://komarev.com/ghpvc/?username=taibislamdipu)
+
 
 <br/>
 <br/>
