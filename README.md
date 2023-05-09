@@ -7,7 +7,7 @@ Hi there 👋!
 - 🎯 I’m currently Focusing on Problem Solving 
 - Mostly active on <a href="https://www.linkedin.com/in/taibislamdipu/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height=20></a>
 - Open To Work
-- Problem-solving: <a href="https://www.beecrowd.com.br/judge/en/profile/834556" target="_blank">**beecrowd/taibislamdipu**</a>
+- Problem Solving Online Judge: <a href="https://www.beecrowd.com.br/judge/en/profile/834556" target="_blank">**beecrowd/taibislamdipu**</a>
 - Visit my portfolio at 🌐 **[www.taibislamdipu.com](https://taibislamdipu.netlify.app/)**
 
 #### What are my skill sets?
