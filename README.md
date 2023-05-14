@@ -1,4 +1,4 @@
-[![Header](https://i.ibb.co/wg9NfJS/github-profile-header.jpg)](#)
+<!-- [![Header](https://i.ibb.co/wg9NfJS/github-profile-header.jpg)](#) -->
 
 
 Hi there 👋!
