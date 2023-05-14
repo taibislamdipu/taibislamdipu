@@ -1,4 +1,4 @@
-[![Header](https://i.ibb.co/QXWWmwT/github-profile-header.png)](#)
+[![Header](https://i.ibb.co/wg9NfJS/github-profile-header.jpg)](#)
 
 
 Hi there 👋!
