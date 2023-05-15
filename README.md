@@ -1,27 +1,30 @@
 <!-- [![Header](https://i.ibb.co/wg9NfJS/github-profile-header.jpg)](#) -->
 
+![Header](https://raw.githubusercontent.com/taibislamdipu/taibislamdipu/main/assets/github-profile-header.png)
 
-Hi there 👋!
+<p align="center">(Open for Hiring)</p>
 
-#### Front-End Engineer from **[Dhaka](https://en.wikipedia.org/wiki/Dhaka), [Bangladesh](https://en.wikipedia.org/wiki/Bangladesh)**
+Welcome to my profile! I'm Software Engineer from **[Dhaka](https://en.wikipedia.org/wiki/Dhaka), [Bangladesh](https://en.wikipedia.org/wiki/Bangladesh)**. Formerly frontend developer at LetsDunch. I love to work with web based projects.
 
-- Have 1 years of hands-on experience in Web Design, JavaScript, React.js
+### ⚡️ A Few Quick Facts
+
+- Have 1+ years of hands-on experience in Web Design, JavaScript, React.js
 - 🔭 I’m currently exploring Back-End Technology, Mongoose, MongoDB Aggregation, and API Testing using Postman.
-- 🎯 I’m currently Focusing on Problem Solving 
+- 🎯 I’m currently solving 1 problem daily on beecrowd.
 - Mostly active on <a href="https://www.linkedin.com/in/taibislamdipu/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height=20></a>
-- Open To Work
 - Problem Solving Online Judge: <a href="https://www.beecrowd.com.br/judge/en/profile/834556" target="_blank">**beecrowd/taibislamdipu**</a>
 - 🌐 Portfolio: **[www.taibislamdipu.com](https://taibislamdipu.netlify.app/)**
+- 📒 Check out my <a href="https://drive.google.com/file/d/1zYMToXAO_OC6sUNnp5nM5LtBVq5r0fLU/view?usp=sharing" target="_blank">resume</a>.
 
 #### What are my skill sets?
 
-- 🗄️ **Backend:**
+- 🗄️ **Server-side:**
 
-  - **Language/Platform:** `JavaScript` • `Node.js`
+  - **Language:** `Node.js`
   - **Framework:** `Express.js`
   - **Databases:** `MongoDB`
 
-- 🖥 **Frontend:**
+- 🖥 **Client-side:**
 
   - **Language:** `JavaScript`
   - **Framework/Library:** `React.js` • `Next.js` • `Redux`
@@ -30,7 +33,6 @@ Hi there 👋!
 - 🎡 **Ecosystem:**
   - **Version Control:** `Git` • `GitHub`
   - **Project Management:** `Jira` • `Trello` • `Asana`
-
 
 #### How to get in touch with me?
 
@@ -55,5 +57,5 @@ Hi there 👋!
 ![](https://komarev.com/ghpvc/?username=taibislamdipu)
 
 ### Github Status
-<a href="http://www.github.com/taibislamdipu"><img src="https://github-readme-streak-stats.herokuapp.com/?user=taibislamdipu&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
+<a href="http://www.github.com/taibislamdipu"><img src="https://github-readme-streak-stats.herokuapp.com/?user=taibislamdipu&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
