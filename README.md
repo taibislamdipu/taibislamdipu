@@ -1,5 +1,3 @@
-<!-- [![Header](https://i.ibb.co/wg9NfJS/github-profile-header.jpg)](#) -->
-
 ![Header](https://raw.githubusercontent.com/taibislamdipu/taibislamdipu/main/assets/github-profile-header.png)
 
 <p align="center">(Open for Hiring)</p>
