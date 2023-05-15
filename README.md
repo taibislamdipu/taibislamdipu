@@ -2,16 +2,15 @@
 
 <p align="center">(Open for Hiring)</p>
 
-Welcome to my profile! I'm Software Engineer from **[Dhaka](https://en.wikipedia.org/wiki/Dhaka), [Bangladesh](https://en.wikipedia.org/wiki/Bangladesh)**. Formerly frontend developer at LetsDunch. I love to work with web based projects.
+Welcome to my profile! I'm Software Engineer from **[Dhaka](https://en.wikipedia.org/wiki/Dhaka), [Bangladesh](https://en.wikipedia.org/wiki/Bangladesh).** Formerly frontend developer at LetsDunch. I love to work with web based projects.
 
 ### ⚡️ A Few Quick Facts
 
 - Have 1+ years of hands-on experience in Web Design, JavaScript, React.js
 - 🔭 I’m currently exploring Back-End Technology, Mongoose, MongoDB Aggregation, and API Testing using Postman.
 - 🎯 I’m currently solving 1 problem daily on beecrowd.
-- Mostly active on <a href="https://www.linkedin.com/in/taibislamdipu/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height=20></a>
 - Problem Solving Online Judge: <a href="https://www.beecrowd.com.br/judge/en/profile/834556" target="_blank">**beecrowd/taibislamdipu**</a>
-- 🌐 Portfolio: **[www.taibislamdipu.com](https://taibislamdipu.netlify.app)**
+- 🌐 Portfolio: **[taibislamdipu.com](https://taibislamdipu.netlify.app)**
 - 📒 Check out my **[resume](https://drive.google.com/file/d/1zYMToXAO_OC6sUNnp5nM5LtBVq5r0fLU/view?usp=sharing)**
 
 #### What are my skill sets?
