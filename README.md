@@ -15,7 +15,7 @@ Welcome to my profile! I'm Software Engineer from **[Dhaka](https://en.wikipedia
 
 #### 💻 Technologies that I know
 
-<p align="center">
+<p>
 <img src="https://raw.githubusercontent.com/taibislamdipu/taibislamdipu/main/assets/icons/html.png"/>
 <img src="https://raw.githubusercontent.com/taibislamdipu/taibislamdipu/main/assets/icons/css.png"/>
 <img src="https://raw.githubusercontent.com/taibislamdipu/taibislamdipu/main/assets/icons/javaScript.png"/>
