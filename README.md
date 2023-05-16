@@ -2,7 +2,7 @@
 
 <p align="center">(Open for Hiring)</p>
 
-Welcome to my profile! I'm Software Engineer from **[Dhaka](https://en.wikipedia.org/wiki/Dhaka), [Bangladesh](https://en.wikipedia.org/wiki/Bangladesh).** Formerly frontend developer at LetsDunch. I love to work with web based projects.
+Welcome to my profile! I'm Software Engineer from **[Dhaka](https://en.wikipedia.org/wiki/Dhaka), [Bangladesh](https://en.wikipedia.org/wiki/Bangladesh).** I love to work with web based projects. 
 
 ### ⚡️ A Few Quick Facts
 
