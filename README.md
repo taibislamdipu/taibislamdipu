@@ -2,7 +2,7 @@
 
 <p align="center">(Open for Hiring)</p>
 
-Welcome to my profile! I'm Software Engineer from **[Dhaka](https://en.wikipedia.org/wiki/Dhaka), [Bangladesh](https://en.wikipedia.org/wiki/Bangladesh).** I love to work with web based projects. 
+Welcome to my profile! I'm Software Engineer from **[Dhaka](https://en.wikipedia.org/wiki/Dhaka), [Bangladesh](https://en.wikipedia.org/wiki/Bangladesh).** I love to work with web based projects.
 
 ### ⚡️ A Few Quick Facts
 
@@ -13,25 +13,26 @@ Welcome to my profile! I'm Software Engineer from **[Dhaka](https://en.wikipedia
 - 🌐 Portfolio: **[taibislamdipu.com](https://taibislamdipu.netlify.app)**
 - 📒 Check out my **[resume](https://drive.google.com/file/d/1zYMToXAO_OC6sUNnp5nM5LtBVq5r0fLU/view?usp=sharing)**
 
-#### What are my skill sets?
+#### 💻 Technologies that I know
 
-- 🗄️ **Server-side:**
+<p>
+<img src="https://raw.githubusercontent.com/taibislamdipu/taibislamdipu/main/assets/icons/html.png"/>
+<img src="https://raw.githubusercontent.com/taibislamdipu/taibislamdipu/main/assets/icons/css.png"/>
+<img src="https://raw.githubusercontent.com/taibislamdipu/taibislamdipu/main/assets/icons/javaScript.png"/>
+<img src="https://raw.githubusercontent.com/taibislamdipu/taibislamdipu/main/assets/icons/react.png"/>
+<img src="https://raw.githubusercontent.com/taibislamdipu/taibislamdipu/main/assets/icons/redux.png"/>
+<img src="https://raw.githubusercontent.com/taibislamdipu/taibislamdipu/main/assets/icons/tailwind.png"/>
+<img src="https://raw.githubusercontent.com/taibislamdipu/taibislamdipu/main/assets/icons/bootstrap.png"/>
+<img src="https://raw.githubusercontent.com/taibislamdipu/taibislamdipu/main/assets/icons/node.png"/>
+<img src="https://raw.githubusercontent.com/taibislamdipu/taibislamdipu/main/assets/icons/express.png"/>
+<img src="https://raw.githubusercontent.com/taibislamdipu/taibislamdipu/main/assets/icons/mongo.png"/>
+</p>
 
-  - **Language:** `Node.js`
-  - **Framework:** `Express.js`
-  - **Databases:** `MongoDB`
+<p align="left">
+<a href="https://getbootstrap.com" target="_blank" rel="noreferrer">  </a>
+</p>
 
-- 🖥 **Client-side:**
-
-  - **Language:** `JavaScript`
-  - **Framework/Library:** `React.js` • `Next.js` • `Redux`
-  - **UI Toolkit:** `TailwindCSS` • `Bootstrap` • `DaisyUI`
-
-- 🎡 **Ecosystem:**
-  - **Version Control:** `Git` • `GitHub`
-  - **Project Management:** `Jira` • `Trello` • `Asana`
-
-#### How to get in touch with me?
+#### Reach me out
 
 <p left="center">
 <a href="https://www.linkedin.com/in/taibislamdipu">
