@@ -13,23 +13,19 @@ Welcome to my profile! I'm Software Engineer from **[Dhaka](https://en.wikipedia
 - 🌐 Portfolio: **[taibislamdipu.com](https://taibislamdipu.netlify.app)**
 - 📒 Check out my **[resume](https://drive.google.com/file/d/1zYMToXAO_OC6sUNnp5nM5LtBVq5r0fLU/view?usp=sharing)**
 
-<!-- #### What are my skill sets? -->
-
 #### 💻 Technologies that I know
 
-<!-- <img src="https://github.com/taibislamdipu/taibislamdipu/assets/icons/html.png"/> -->
-
 <p align="center">
-<img src="assets/icons/html.png"/>
-<img src="assets/icons/css.png"/>
-<img src="assets/icons/javaScript.png"/>
-<img src="assets/icons/react.png"/>
-<img src="assets/icons/redux.png"/>
-<img src="assets/icons/tailwind.png"/>
-<img src="assets/icons/bootstrap.png"/>
-<img src="assets/icons/node.png"/>
-<img src="assets/icons/express.png"/>
-<img src="assets/icons/mongo.png"/>
+<img src="https://raw.githubusercontent.com/taibislamdipu/taibislamdipu/main/assets/icons/html.png"/>
+<img src="https://raw.githubusercontent.com/taibislamdipu/taibislamdipu/main/assets/icons/css.png"/>
+<img src="https://raw.githubusercontent.com/taibislamdipu/taibislamdipu/main/assets/icons/javaScript.png"/>
+<img src="https://raw.githubusercontent.com/taibislamdipu/taibislamdipu/main/assets/icons/react.png"/>
+<img src="https://raw.githubusercontent.com/taibislamdipu/taibislamdipu/main/assets/icons/redux.png"/>
+<img src="https://raw.githubusercontent.com/taibislamdipu/taibislamdipu/main/assets/icons/tailwind.png"/>
+<img src="https://raw.githubusercontent.com/taibislamdipu/taibislamdipu/main/assets/icons/bootstrap.png"/>
+<img src="https://raw.githubusercontent.com/taibislamdipu/taibislamdipu/main/assets/icons/node.png"/>
+<img src="https://raw.githubusercontent.com/taibislamdipu/taibislamdipu/main/assets/icons/express.png"/>
+<img src="https://raw.githubusercontent.com/taibislamdipu/taibislamdipu/main/assets/icons/mongo.png"/>
 </p>
 
 <p align="left">
