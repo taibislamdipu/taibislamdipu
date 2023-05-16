@@ -2,7 +2,7 @@
 
 <p align="center">(Open for Hiring)</p>
 
-Welcome to my profile! I'm Software Engineer from **[Dhaka](https://en.wikipedia.org/wiki/Dhaka), [Bangladesh](https://en.wikipedia.org/wiki/Bangladesh).** I love to work with web based projects. 
+Welcome to my profile! I'm Software Engineer from **[Dhaka](https://en.wikipedia.org/wiki/Dhaka), [Bangladesh](https://en.wikipedia.org/wiki/Bangladesh).** I love to work with web based projects.
 
 ### ⚡️ A Few Quick Facts
 
@@ -13,25 +13,30 @@ Welcome to my profile! I'm Software Engineer from **[Dhaka](https://en.wikipedia
 - 🌐 Portfolio: **[taibislamdipu.com](https://taibislamdipu.netlify.app)**
 - 📒 Check out my **[resume](https://drive.google.com/file/d/1zYMToXAO_OC6sUNnp5nM5LtBVq5r0fLU/view?usp=sharing)**
 
-#### What are my skill sets?
+<!-- #### What are my skill sets? -->
 
-- 🗄️ **Server-side:**
+#### 💻 Technologies that I know
 
-  - **Language:** `Node.js`
-  - **Framework:** `Express.js`
-  - **Databases:** `MongoDB`
+<!-- <img src="https://github.com/taibislamdipu/taibislamdipu/assets/icons/html.png"/> -->
 
-- 🖥 **Client-side:**
+<p align="center">
+<img src="assets/icons/html.png"/>
+<img src="assets/icons/css.png"/>
+<img src="assets/icons/javaScript.png"/>
+<img src="assets/icons/react.png"/>
+<img src="assets/icons/redux.png"/>
+<img src="assets/icons/tailwind.png"/>
+<img src="assets/icons/bootstrap.png"/>
+<img src="assets/icons/node.png"/>
+<img src="assets/icons/express.png"/>
+<img src="assets/icons/mongo.png"/>
+</p>
 
-  - **Language:** `JavaScript`
-  - **Framework/Library:** `React.js` • `Next.js` • `Redux`
-  - **UI Toolkit:** `TailwindCSS` • `Bootstrap` • `DaisyUI`
+<p align="left">
+<a href="https://getbootstrap.com" target="_blank" rel="noreferrer">  </a>
+</p>
 
-- 🎡 **Ecosystem:**
-  - **Version Control:** `Git` • `GitHub`
-  - **Project Management:** `Jira` • `Trello` • `Asana`
-
-#### How to get in touch with me?
+#### Reach me out
 
 <p left="center">
 <a href="https://www.linkedin.com/in/taibislamdipu">
