@@ -1,4 +1,4 @@
-![Header](https://raw.githubusercontent.com/taibislamdipu/taibislamdipu/main/assets/github-profile-header.png)
+![Header](https://raw.githubusercontent.com/taibislamdipu/taibislamdipu/main/assets/github-profile-header.jpg)
 
 <p align="center">(Open for Hiring)</p>
 
