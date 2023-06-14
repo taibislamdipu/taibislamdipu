@@ -19,19 +19,19 @@ Welcome to my profile! I'm Software Engineer from **[Dhaka](https://en.wikipedia
 ### 💻 Technologies that I know
 
 <p>
+<img src="https://raw.githubusercontent.com/taibislamdipu/taibislamdipu/main/assets/icons/javaScript.png"/>
+<img src="https://raw.githubusercontent.com/taibislamdipu/taibislamdipu/main/assets/icons/node.png"/>
+<img src="https://raw.githubusercontent.com/taibislamdipu/taibislamdipu/main/assets/icons/express.png"/>
+<img src="https://raw.githubusercontent.com/taibislamdipu/taibislamdipu/main/assets/icons/mongo.png" width="60" height="60" />
+<img src="https://raw.githubusercontent.com/taibislamdipu/taibislamdipu/main/assets/icons/mongoose.png" width="125" height="60" />
+<img src="https://raw.githubusercontent.com/taibislamdipu/taibislamdipu/main/assets/icons/postman.png" width="60" height="60" />
+<img src="https://raw.githubusercontent.com/taibislamdipu/taibislamdipu/main/assets/icons/jwt.png" width="125" height="60" />
 <img src="https://raw.githubusercontent.com/taibislamdipu/taibislamdipu/main/assets/icons/html.png"/>
 <img src="https://raw.githubusercontent.com/taibislamdipu/taibislamdipu/main/assets/icons/css.png"/>
-<img src="https://raw.githubusercontent.com/taibislamdipu/taibislamdipu/main/assets/icons/javaScript.png"/>
 <img src="https://raw.githubusercontent.com/taibislamdipu/taibislamdipu/main/assets/icons/react.png"/>
 <img src="https://raw.githubusercontent.com/taibislamdipu/taibislamdipu/main/assets/icons/redux.png"/>
 <img src="https://raw.githubusercontent.com/taibislamdipu/taibislamdipu/main/assets/icons/tailwind.png"/>
 <img src="https://raw.githubusercontent.com/taibislamdipu/taibislamdipu/main/assets/icons/bootstrap.png"/>
-<img src="https://raw.githubusercontent.com/taibislamdipu/taibislamdipu/main/assets/icons/node.png"/>
-<img src="https://raw.githubusercontent.com/taibislamdipu/taibislamdipu/main/assets/icons/express.png"/>
-<img src="https://raw.githubusercontent.com/taibislamdipu/taibislamdipu/main/assets/icons/mongo.png" width="60" height="60" />
-<img src="https://raw.githubusercontent.com/taibislamdipu/taibislamdipu/main/assets/icons/postman.png" width="60" height="60" />
-<img src="https://raw.githubusercontent.com/taibislamdipu/taibislamdipu/main/assets/icons/mongoose.png" width="125" height="60" />
-<!-- <img src="https://raw.githubusercontent.com/taibislamdipu/taibislamdipu/main/assets/icons/jwt.png" width="125" height="60" /> -->
 </p>
 
 <p align="left">
