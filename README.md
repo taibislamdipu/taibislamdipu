@@ -2,7 +2,7 @@
 
 <p align="center">(Open for Hiring)</p>
 
-Welcome to my profile! I'm Software Engineer from **[Dhaka](https://en.wikipedia.org/wiki/Dhaka), [Bangladesh](https://en.wikipedia.org/wiki/Bangladesh).** I love to work with web based projects.
+Welcome to my profile! I'm Software Engineer from **[Dhaka](https://en.wikipedia.org/wiki/Dhaka), [Bangladesh](https://en.wikipedia.org/wiki/Bangladesh).** I love to work in both frontend and backend in web based projects.
 
 ### ⚡️ A Few Quick Facts
 
@@ -19,19 +19,19 @@ Welcome to my profile! I'm Software Engineer from **[Dhaka](https://en.wikipedia
 ### 💻 Technologies that I know
 
 <p>
-<img src="https://raw.githubusercontent.com/taibislamdipu/taibislamdipu/main/assets/icons/javaScript.png"/>
-<img src="https://raw.githubusercontent.com/taibislamdipu/taibislamdipu/main/assets/icons/node.png"/>
-<img src="https://raw.githubusercontent.com/taibislamdipu/taibislamdipu/main/assets/icons/express.png"/>
-<img src="https://raw.githubusercontent.com/taibislamdipu/taibislamdipu/main/assets/icons/mongo.png" width="60" height="60" />
-<img src="https://raw.githubusercontent.com/taibislamdipu/taibislamdipu/main/assets/icons/mongoose.png" width="125" height="60" />
-<img src="https://raw.githubusercontent.com/taibislamdipu/taibislamdipu/main/assets/icons/postman.png" width="60" height="60" />
-<img src="https://raw.githubusercontent.com/taibislamdipu/taibislamdipu/main/assets/icons/jwt.png" width="125" height="60" />
-<img src="https://raw.githubusercontent.com/taibislamdipu/taibislamdipu/main/assets/icons/html.png"/>
-<img src="https://raw.githubusercontent.com/taibislamdipu/taibislamdipu/main/assets/icons/css.png"/>
-<img src="https://raw.githubusercontent.com/taibislamdipu/taibislamdipu/main/assets/icons/react.png"/>
-<img src="https://raw.githubusercontent.com/taibislamdipu/taibislamdipu/main/assets/icons/redux.png"/>
-<img src="https://raw.githubusercontent.com/taibislamdipu/taibislamdipu/main/assets/icons/tailwind.png"/>
-<img src="https://raw.githubusercontent.com/taibislamdipu/taibislamdipu/main/assets/icons/bootstrap.png"/>
+<img src="https://raw.githubusercontent.com/taibislamdipu/taibislamdipu/main/assets/icons/javaScript.png" alt="JavaScript"/>
+<img src="https://raw.githubusercontent.com/taibislamdipu/taibislamdipu/main/assets/icons/node.png" alt="Node.js"/>
+<img src="https://raw.githubusercontent.com/taibislamdipu/taibislamdipu/main/assets/icons/express.png" alt="Express.js"/>
+<img src="https://raw.githubusercontent.com/taibislamdipu/taibislamdipu/main/assets/icons/mongodb.png" height="60" alt="MongoDB" />
+<img src="https://raw.githubusercontent.com/taibislamdipu/taibislamdipu/main/assets/icons/mongoose.png" width="125" height="60"  alt="mongoose" />
+<img src="https://raw.githubusercontent.com/taibislamdipu/taibislamdipu/main/assets/icons/postman.png" width="60" height="60" alt="Postman" />
+<img src="https://raw.githubusercontent.com/taibislamdipu/taibislamdipu/main/assets/icons/jwt.png" width="125" height="60" alt="JWT" />
+<img src="https://raw.githubusercontent.com/taibislamdipu/taibislamdipu/main/assets/icons/html.png" alt="HTML" />
+<img src="https://raw.githubusercontent.com/taibislamdipu/taibislamdipu/main/assets/icons/css.png" alt="CSS" />
+<img src="https://raw.githubusercontent.com/taibislamdipu/taibislamdipu/main/assets/icons/react.png" alt="React.js" />
+<img src="https://raw.githubusercontent.com/taibislamdipu/taibislamdipu/main/assets/icons/redux.png" alt="Redux" />
+<img src="https://raw.githubusercontent.com/taibislamdipu/taibislamdipu/main/assets/icons/tailwind.png" alt="TailwindCSS" />
+<img src="https://raw.githubusercontent.com/taibislamdipu/taibislamdipu/main/assets/icons/bootstrap.png" alt="Bootstrap" />
 </p>
 
 <p align="left">
