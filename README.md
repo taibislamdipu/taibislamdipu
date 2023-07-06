@@ -7,12 +7,9 @@ Welcome to my profile! I'm Software Engineer from **[Dhaka](https://en.wikipedia
 ### ⚡️ A Few Quick Facts
 
 - Have 1+ years of hands-on experience in Web Design, JavaScript, React.js
-- I’m currently learning Back-End Technology and MongoDB Aggregation.
+- I’m currently learning MongoDB Aggregation.
 - I’m currently solving 1 problem daily on beecrowd.
-- <span left="center">Problem Solving Online Judge: <a href="https://www.beecrowd.com.br/judge/en/profile/834556" target="_blank" alt="beecrowd/taibislamdipu">
-  <img src="https://raw.githubusercontent.com/taibislamdipu/taibislamdipu/main/assets/icons/beecrowd.jpg" height=25>
-  </a>
-  </span>
+- Problem Solving Online Judge: **[beecrowd.com/@taibislam](https://www.beecrowd.com.br/judge/en/profile/834556)**
 - Portfolio: **[taibislamdipu.com](https://taibislamdipu.netlify.app)**
 - Check out my **[resume](https://drive.google.com/file/d/1zYMToXAO_OC6sUNnp5nM5LtBVq5r0fLU/view?usp=sharing)**
 
