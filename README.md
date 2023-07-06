@@ -2,23 +2,40 @@
 
 <p align="center">(Open for Hiring)</p>
 
-Welcome to my profile! I'm Software Engineer from **[Dhaka](https://en.wikipedia.org/wiki/Dhaka), [Bangladesh](https://en.wikipedia.org/wiki/Bangladesh).** I love to work in both frontend and backend in web based projects.
+Welcome to my profile! I'm Software Engineer from **[Dhaka](https://en.wikipedia.org/wiki/Dhaka), [Bangladesh](https://en.wikipedia.org/wiki/Bangladesh).** My main areas of interest include problem-solving and full-stack web development. I am passionate about trying out new technologies. Thank you for visiting my repo. I hope you find the projects here interesting. If you have any questions or comments, please reach out to me.
 
 ### ⚡️ A Few Quick Facts
 
 - Have 1+ years of hands-on experience in Web Design, JavaScript, React.js
-- 🔭 I’m currently learning Back-End Technology and MongoDB Aggregation.
-- 🎯 I’m currently solving 1 problem daily on beecrowd.
+- I’m currently learning Back-End Technology and MongoDB Aggregation.
+- I’m currently solving 1 problem daily on beecrowd.
 - <span left="center">Problem Solving Online Judge: <a href="https://www.beecrowd.com.br/judge/en/profile/834556" target="_blank" alt="beecrowd/taibislamdipu">
   <img src="https://raw.githubusercontent.com/taibislamdipu/taibislamdipu/main/assets/icons/beecrowd.jpg" height=25>
   </a>
   </span>
-- 🌐 Portfolio: **[taibislamdipu.com](https://taibislamdipu.netlify.app)**
-- 📒 Check out my **[resume](https://drive.google.com/file/d/1zYMToXAO_OC6sUNnp5nM5LtBVq5r0fLU/view?usp=sharing)**
+- Portfolio: **[taibislamdipu.com](https://taibislamdipu.netlify.app)**
+- Check out my **[resume](https://drive.google.com/file/d/1zYMToXAO_OC6sUNnp5nM5LtBVq5r0fLU/view?usp=sharing)**
 
-### 💻 Technologies that I know
+### 💻 My Programming Stack
 
-<p>
+- **Front-end:**
+
+  - **Languages:** `JavaScript`
+  - **Frameworks:** `React.js` • `Next.js` • `Redux` • `RTK Query`
+  - **UI Toolkit:** `Tailwind` • `Bootstrap` • `Daisy Ui`
+
+- **Back-end:**
+
+  - **Languages:** `Node.js`
+  - **Frameworks:** `Express.js`
+  - **Databases:** `MongoDB` • `Mongoose`
+
+- **Software development ecosystem:**
+
+  - **Code repository:** `Github` • `AWS`
+  - **Project management:** `Jira` • `Trello`
+
+<!-- <p>
 <img src="https://raw.githubusercontent.com/taibislamdipu/taibislamdipu/main/assets/icons/javaScript.png" alt="JavaScript"/>
 <img src="https://raw.githubusercontent.com/taibislamdipu/taibislamdipu/main/assets/icons/node.png" alt="Node.js"/>
 <img src="https://raw.githubusercontent.com/taibislamdipu/taibislamdipu/main/assets/icons/express.png" alt="Express.js"/>
@@ -32,7 +49,7 @@ Welcome to my profile! I'm Software Engineer from **[Dhaka](https://en.wikipedia
 <img src="https://raw.githubusercontent.com/taibislamdipu/taibislamdipu/main/assets/icons/redux.png" alt="Redux" />
 <img src="https://raw.githubusercontent.com/taibislamdipu/taibislamdipu/main/assets/icons/tailwind.png" alt="TailwindCSS" />
 <img src="https://raw.githubusercontent.com/taibislamdipu/taibislamdipu/main/assets/icons/bootstrap.png" alt="Bootstrap" />
-</p>
+</p> -->
 
 <p align="left">
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">  </a>
