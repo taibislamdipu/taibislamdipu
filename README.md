@@ -32,22 +32,6 @@ Welcome to my profile! I'm Software Engineer from **[Dhaka](https://en.wikipedia
   - **Code repository:** `Github` • `AWS`
   - **Project management:** `Jira` • `Trello`
 
-<!-- <p>
-<img src="https://raw.githubusercontent.com/taibislamdipu/taibislamdipu/main/assets/icons/javaScript.png" alt="JavaScript"/>
-<img src="https://raw.githubusercontent.com/taibislamdipu/taibislamdipu/main/assets/icons/node.png" alt="Node.js"/>
-<img src="https://raw.githubusercontent.com/taibislamdipu/taibislamdipu/main/assets/icons/express.png" alt="Express.js"/>
-<img src="https://raw.githubusercontent.com/taibislamdipu/taibislamdipu/main/assets/icons/mongodb.png" height="60" alt="MongoDB" />
-<img src="https://raw.githubusercontent.com/taibislamdipu/taibislamdipu/main/assets/icons/mongoose.png" width="125" height="60"  alt="mongoose" />
-<img src="https://raw.githubusercontent.com/taibislamdipu/taibislamdipu/main/assets/icons/postman.png" width="60" height="60" alt="Postman" />
-<img src="https://raw.githubusercontent.com/taibislamdipu/taibislamdipu/main/assets/icons/jwt.png" width="125" height="60" alt="JWT" />
-<img src="https://raw.githubusercontent.com/taibislamdipu/taibislamdipu/main/assets/icons/html.png" alt="HTML" />
-<img src="https://raw.githubusercontent.com/taibislamdipu/taibislamdipu/main/assets/icons/css.png" alt="CSS" />
-<img src="https://raw.githubusercontent.com/taibislamdipu/taibislamdipu/main/assets/icons/react.png" alt="React.js" />
-<img src="https://raw.githubusercontent.com/taibislamdipu/taibislamdipu/main/assets/icons/redux.png" alt="Redux" />
-<img src="https://raw.githubusercontent.com/taibislamdipu/taibislamdipu/main/assets/icons/tailwind.png" alt="TailwindCSS" />
-<img src="https://raw.githubusercontent.com/taibislamdipu/taibislamdipu/main/assets/icons/bootstrap.png" alt="Bootstrap" />
-</p> -->
-
 <p align="left">
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">  </a>
 </p>
