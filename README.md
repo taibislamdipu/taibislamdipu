@@ -17,20 +17,11 @@ Welcome to my profile! I'm Software Engineer from **[Dhaka](https://en.wikipedia
 
 - **Front-end:**
 
-  - **Languages:** `JavaScript`
-  - **Frameworks:** `React.js` • `Next.js` • `Redux` • `RTK Query`
-  - **UI Toolkit:** `Tailwind` • `Bootstrap` • `Daisy Ui`
+  - `JavaScript` • `React.js` • `Redux` • `HTML` • `CSS` • `Tailwind` • `Bootstrap` 
 
 - **Back-end:**
 
-  - **Languages:** `Node.js`
-  - **Frameworks:** `Express.js`
-  - **Databases:** `MongoDB` • `Mongoose`
-
-- **Software development ecosystem:**
-
-  - **Code repository:** `Github` • `AWS`
-  - **Project management:** `Jira` • `Trello`
+  - `Node.js` • `Express.js` • `MongoDB` • `Mongoose`
 
 <p align="left">
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">  </a>
