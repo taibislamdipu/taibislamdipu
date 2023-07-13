@@ -1,4 +1,4 @@
-![Header](https://raw.githubusercontent.com/taibislamdipu/taibislamdipu/main/assets/github-profile-header.jpg)
+![Header](https://raw.githubusercontent.com/taibislamdipu/taibislamdipu/main/assets/github-profile-header.png)
 
 <p align="center">(Open To Work)</p>
 
@@ -17,7 +17,7 @@ Welcome to my profile! I'm Software Engineer from **[Dhaka](https://en.wikipedia
 
 - **Front-end:**
 
-  - `JavaScript` • `React.js` • `Redux` • `HTML` • `CSS` • `Tailwind` • `Bootstrap` 
+  - `JavaScript` • `React.js` • `Redux` • `HTML` • `CSS` • `Tailwind` • `Bootstrap`
 
 - **Back-end:**
 
