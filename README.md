@@ -51,4 +51,6 @@ Welcome to my profile! I'm Software Engineer from **[Dhaka](https://en.wikipedia
 
 ### 🚀 Github Status
 
-<a href="http://www.github.com/taibislamdipu"><img src="https://github-readme-streak-stats.herokuapp.com/?user=taibislamdipu&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/taibislamdipu"><img src="https://github-readme-streak-stats.herokuapp.com/?user=taibislamdipu&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true&theme=transparent" /></a>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taibislamdipu&layout=compact&theme=transparent&bg_color=1c1917&hide_border=true)](https://github.com/taibislamdipu/taibislamdipu)
