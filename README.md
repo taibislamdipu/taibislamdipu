@@ -17,7 +17,7 @@ Welcome to my profile! I'm Web Developer from **[Dhaka](https://en.wikipedia.org
 
 - **Front-end:**
 
-  - `JavaScript` • `React.js` • `Redux` • `HTML` • `CSS` • `Tailwind` • `Bootstrap`
+  - `JavaScript` • `React.js` • `Redux` • `Tailwind` • `Bootstrap`
 
 - **Back-end:**
 
