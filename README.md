@@ -9,7 +9,7 @@ Welcome to my profile! I'm Web Developer from **[Dhaka](https://en.wikipedia.org
 - Have hands-on experience in Web Design, JavaScript, and React.js
 - I’m currently learning MongoDB Aggregation.
 - I’m currently solving 1 problem daily on Beecrowd.
-- Problem Solving Online Judge: **[beecrowd.com/@taibislam](https://www.beecrowd.com.br/judge/en/profile/834556)**
+- Online Judge: **[beecrowd.com/@taibislam](https://www.beecrowd.com.br/judge/en/profile/834556)**
 - Portfolio: **[taibislamdipu.com](https://taibislamdipu.netlify.app)**
 - Check out my **[resume](https://drive.google.com/file/d/1zYMToXAO_OC6sUNnp5nM5LtBVq5r0fLU/view?usp=sharing)**
 
