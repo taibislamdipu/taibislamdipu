@@ -1,12 +1,9 @@
 ![Header](https://raw.githubusercontent.com/taibislamdipu/taibislamdipu/main/assets/github-profile-header.png)
 
-<p align="center">(Open To Work)</p>
-
 Welcome to my profile! I'm Web Developer from **[Dhaka](https://en.wikipedia.org/wiki/Dhaka), [Bangladesh](https://en.wikipedia.org/wiki/Bangladesh).** My main areas of interest include front-end and full-stack web development. I am passionate about trying out new technologies. Thank you for visiting my repo. I hope you find the projects here interesting. If you have any questions or comments, please reach out to me.
 
 ### ⚡️ A Few Quick Facts
 
-- Have hands-on experience in Web Design, JavaScript, and React.js
 - Online Judge: **[beecrowd.com/@taibislam](https://www.beecrowd.com.br/judge/en/profile/834556)**
 - Portfolio: **[taibislamdipu.com](https://taibislamdipu.netlify.app)**
 - Check out my **[resume](https://drive.google.com/file/d/1zYMToXAO_OC6sUNnp5nM5LtBVq5r0fLU/view?usp=sharing)**
