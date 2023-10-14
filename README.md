@@ -10,13 +10,7 @@ Welcome to my profile! I'm Web Developer from **[Dhaka](https://en.wikipedia.org
 
 ### 💻 My Technology Stack
 
-- **Front-end:**
-
-  - `JavaScript` • `Next.js` • `React.js` • `Redux` • `Tailwind` • `Bootstrap`
-
-- **Back-end:**
-
-  - `Node.js` • `Express.js` • `MongoDB` • `Mongoose`
+  - `JavaScript` • `Next.js` • `React.js` • `Sanity` • `Redux` • `Tailwind CSS` • `Bootstrap` • `Node.js` • `Express.js` • `MongoDB` • `Mongoose`
 
 <p align="left">
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">  </a>
