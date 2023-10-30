@@ -1,47 +1,30 @@
 ![Header](https://raw.githubusercontent.com/taibislamdipu/taibislamdipu/main/assets/github-profile-header.png)
 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Sanity.io](https://img.shields.io/badge/Sanity.io-F04436?logo=sanity&logoColor=white)
+![React.js](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=flat-square)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-lightgrey?logo=express&logoColor=white)
+![Mongoose](https://img.shields.io/badge/Mongoose-yellowgreen)
+
 Welcome to my profile! I'm Web Developer from **[Dhaka](https://en.wikipedia.org/wiki/Dhaka), [Bangladesh](https://en.wikipedia.org/wiki/Bangladesh).** My main areas of interest include front-end and full-stack web development. I am passionate about trying out new technologies. Thank you for visiting my repo. I hope you find the projects here interesting. If you have any questions or comments, please reach out to me.
 
-### ⚡️ A Few Quick Facts
+### A Few Quick Facts
 
 - Online Judge: **[beecrowd.com/@taibislam](https://www.beecrowd.com.br/judge/en/profile/834556)**
 - Portfolio: **[taibislamdipu.com](https://taibislamdipu.netlify.app)**
 - Check out my **[resume](https://drive.google.com/file/d/1zYMToXAO_OC6sUNnp5nM5LtBVq5r0fLU/view?usp=sharing)**
 
-### 💻 My Technology Stack
-
-  - `JavaScript` • `Next.js` • `React.js` • `Sanity` • `Redux` • `Tailwind CSS` • `Bootstrap` • `Node.js` • `Express.js` • `MongoDB` • `Mongoose`
-
-<p align="left">
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer">  </a>
-</p>
-
-### 👋 Reach me out
-
-<p left="center">
-<a href="https://www.linkedin.com/in/taibislamdipu">
-  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
-</a> 
-<a href="https://www.facebook.com/taibislamdipu">
-  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height=25>
-</a>
-<a href="https://medium.com/@taibislamdipu">
-  <img src="https://img.shields.io/badge/medium-%231DA1F2.svg?&style=for-the-badge&logo=medium&logoColor=white" height=25>
-</a> 
-<a href="mailto:mailtaibislam@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25>
-</a>
-</p>
-
-<br/>
-<!-- GitHub Profile Views Counter -->
-
 ![](https://komarev.com/ghpvc/?username=taibislamdipu)
 
 ### 🚀 Github Status
 
-<!--
-<a href="http://www.github.com/taibislamdipu"><img src="https://github-readme-streak-stats.herokuapp.com/?user=taibislamdipu&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true&theme=transparent" /></a>
- -->
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taibislamdipu&layout=compact&theme=transparent&bg_color=1c1917&hide_border=true&text_color=ffffff&title_color=ffffff)](https://github.com/taibislamdipu/taibislamdipu)
+
+### Contact
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/taibislamdipu) 
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://facebook.com/taibislamdipu)
+[![Medium](https://img.shields.io/badge/Medium-black?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@taibislamdipu)
