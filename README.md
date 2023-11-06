@@ -12,7 +12,7 @@
 
 Welcome to my profile! I'm Web Developer from **[Dhaka](https://en.wikipedia.org/wiki/Dhaka), [Bangladesh](https://en.wikipedia.org/wiki/Bangladesh).** My main areas of interest include front-end and full-stack web development. I am passionate about trying out new technologies. Thank you for visiting my repo. I hope you find the projects here interesting. If you have any questions or comments, please reach out to me.
 
-With 1+ years of industry experience, I have worked with NEXT JS, REACT, NODE JS, and MongoDB for database management. I am confident in working with any JavaScript-based frameworks.
+With 1+ years of industry experience, I have worked with NEXT JS, REACT, NODE JS, and MongoDB for database management. I am flexible in working with any JavaScript-based frameworks.
 
 In my previous role as a Frontend Developer at LetsDunch, I was responsible for developing and maintaining UI components using React.js and Tailwind CSS. I actively collaborated with cross-functional teams to integrate APIs, enabling enhanced functionality and data exchange. Notably, I contributed to implementing features such as meeting booking, rescheduling, expert profile updates, and redesigning many existing pages. My role also included thorough requirement analysis and documentation of the project. Additionally, I consistently delivered bug fixes and enhancements to optimize overall system performance.
 
@@ -24,7 +24,7 @@ In my previous role as a Frontend Developer at LetsDunch, I was responsible for 
 
 ![](https://komarev.com/ghpvc/?username=taibislamdipu)
 
-### 🚀 Github Status
+### Github Status
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taibislamdipu&layout=compact&theme=transparent&bg_color=1c1917&hide_border=true&text_color=ffffff&title_color=ffffff)](https://github.com/taibislamdipu/taibislamdipu)
 
