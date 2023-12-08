@@ -12,9 +12,12 @@
 
 Welcome to my profile! I'm Web Developer from **[Dhaka](https://en.wikipedia.org/wiki/Dhaka), [Bangladesh](https://en.wikipedia.org/wiki/Bangladesh).** My main areas of interest include front-end and full-stack web development. I am passionate about trying out new technologies. Thank you for visiting my repo. I hope you find the projects here interesting. If you have any questions or comments, please reach out to me.
 
-With 1+ years of industry experience, I have worked with NEXT JS, REACT, NODE JS, and MongoDB for database management. I am flexible in working with any JavaScript-based project.
+I'm a Front End Developer with 1+ years of experience, I have worked with NEXT JS, REACT, NODE JS, and MongoDB for database management. I am flexible in working with any JavaScript-based project. My main areas of interest are front-end and full-stack web-based applications.
 
-In my previous role as a Frontend Developer at LetsDunch, I was responsible for developing and maintaining UI components using React.js and Tailwind CSS. I actively collaborated with cross-functional teams to integrate APIs, enabling enhanced functionality and data exchange. Notably, I contributed to implementing features such as meeting booking, rescheduling, expert profile updates, and redesigning many existing pages. My role also included thorough requirement analysis and documentation of the project. Additionally, I consistently delivered bug fixes and enhancements to optimize overall system performance.
+Currently, I'm working on a web app with Next.js (v13) and I'm trying to make it look better and run faster. I'm doing this by creating components for the parts of the code that are used more than once and following the best practices of Next.js. This has made the website 20% faster than before.
+
+At LetsDunch, I was a front-end developer who built and updated UI components with React.js and Tailwind CSS. I worked with other teams to connect APIs that added more features and data to the web app. Some of the features I helped with were booking and rescheduling meetings, updating expert profiles, and making over some old pages. I also did a lot of analysis and documentation for the project. Besides that, I fixed bugs and improved the system performance regularly.
+
 
 ### A Few Quick Facts
 
