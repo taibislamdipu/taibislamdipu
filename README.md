@@ -12,7 +12,7 @@
 
 Welcome to my profile! I'm Web Developer from **[Dhaka](https://en.wikipedia.org/wiki/Dhaka), [Bangladesh](https://en.wikipedia.org/wiki/Bangladesh).** My main areas of interest include front-end and full-stack web development. I am passionate about trying out new technologies. Thank you for visiting my repo. I hope you find the projects here interesting. If you have any questions or comments, please reach out to me.
 
-I'm a Front End Developer with 1+ years of experience, I have worked with NEXT JS, REACT, NODE JS, and MongoDB for database management. I am flexible in working with any JavaScript-based project. My main areas of interest are front-end and full-stack web-based applications.
+I'm a Front End Developer with 1+ years of experience, I have worked with NEXT JS, REACT, NODE JS, and MongoDB for database management. I am flexible in working with any JavaScript-based project.
 
 Currently, I'm working on a web app with Next.js (v13) and I'm trying to make it look better and run faster. I'm doing this by creating components for the parts of the code that are used more than once and following the best practices of Next.js. This has made the website 20% faster than before.
 
