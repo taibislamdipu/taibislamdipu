@@ -21,9 +21,10 @@ At LetsDunch, I was a front-end developer who built and updated UI components wi
 
 ### A Few Quick Facts
 
-- Online Judge: **[www.beecrowd.com/@taibislam](https://www.beecrowd.com.br/judge/en/profile/834556)**
 - Portfolio: **[taibislamdipu.vercel.app](https://taibislamdipu.vercel.app/)**
 - Check out my **[Resume](https://drive.google.com/file/d/1zYMToXAO_OC6sUNnp5nM5LtBVq5r0fLU/view?usp=sharing)**
+- Online Judge: **[www.beecrowd.com/@taibislam](https://www.beecrowd.com.br/judge/en/profile/834556)**
+
 
 ![](https://komarev.com/ghpvc/?username=taibislamdipu)
 
