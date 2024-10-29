@@ -12,10 +12,10 @@
 
 ### About Me
 
-- 💼 Frontend Developer: **[Codecony](https://codecony.com/)**
-- 🌐 Portfolio: **[taibislamdipu.vercel.app](https://taibislamdipu.vercel.app/)**
-- 📝 Check out my **[Resume](https://drive.google.com/file/d/1zYMToXAO_OC6sUNnp5nM5LtBVq5r0fLU/view?usp=sharing)**
-- 💻 Online Judge: **[www.beecrowd.com/@taibislam](https://www.beecrowd.com.br/judge/en/profile/834556)**
+- 💼 Frontend Developer: <a href="https://codecony.com/" target="_blank">**Codecony**</a>
+- 🌐 Portfolio: <a href="https://taibislamdipu.vercel.app/" target="_blank">**taibislamdipu.vercel.app**</a>
+- 📝 Check out my <a href="https://drive.google.com/file/d/1zYMToXAO_OC6sUNnp5nM5LtBVq5r0fLU/view?usp=sharing" target="_blank">**Resume**</a>
+- 💻 Online Judge: <a href="https://www.beecrowd.com.br/judge/en/profile/834556" target="_blank">**www.beecrowd.com/@taibislam**</a>
 
 Welcome to my profile! I'm Web Developer from Dhaka, Bangladesh. My main areas of expertise are front-end and full-stack web development. I am passionate about trying out new technologies. Thank you for visiting my repo. I hope you find the projects here interesting. If you have any questions or comments, please reach out to me.
 
