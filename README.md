@@ -23,8 +23,6 @@ Web Developer with 2+ years of experience, I have worked with NEXT JS, REACT, NO
 
 I'm currently focused on various projects for my company. One of my main projects is building a web app with Next.js. I've made it look better and run faster by following best practices, which boosted its speed by 20%.
 
-At LetsDunch, I was a front-end developer who built and updated UI components with React.js and Tailwind CSS. I worked with other teams to connect APIs that added more features and data to the web app. Some of the features I helped with were booking and rescheduling meetings, updating expert profiles, and making over some old pages. I also did a lot of analysis and documentation for the project. Besides that, I fixed bugs and regularly improved the system's performance.
-
 
 
 
